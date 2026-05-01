@@ -449,7 +449,13 @@
         "static-mozai.4gtv.tv"
     ],
 "lives": [
-        {
+         {
+            "name": "🐬各大直播源合集",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
+        }
+         {
             "name": "🐬地方直播",
             "type": 0,
             "ua": "okhttp",
@@ -480,10 +486,16 @@
             "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
         {
-            "name": "🐬mytv",
+            "name": "🐬新港台频道",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
+        },
+        {
+            "name": "🐬Mytv2",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
         },
          {
             "name": "🐬港台",
